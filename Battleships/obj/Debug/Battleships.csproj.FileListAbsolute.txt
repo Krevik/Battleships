@@ -1,0 +1,11 @@
+D:\C# Projects\Battleships\Battleships\bin\Debug\Battleships.exe.config
+D:\C# Projects\Battleships\Battleships\bin\Debug\Battleships.exe
+D:\C# Projects\Battleships\Battleships\bin\Debug\Battleships.pdb
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.csproj.AssemblyReference.cache
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.Form1.resources
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.csproj.GenerateResource.cache
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.csproj.CoreCompileInputs.cache
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.exe
+D:\C# Projects\Battleships\Battleships\obj\Debug\Battleships.pdb
